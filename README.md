@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./Screenshot%202026-09-04%20184614.png" alt="Beacon Innovation Hub Logo" width="180">
+</p>
+
+# Beacon Innovation Hub
+
+Your project description goes here...
 # 📊 BIH Data Analyst Journey
 
 <p align="center">
