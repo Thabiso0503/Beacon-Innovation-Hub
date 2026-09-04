@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./Screenshot%202026-09-04%20184614.png" alt="Beacon Innovation Hub Logo" width="180">
+  <img src="./Screenshot%202026-09-04%20184614.png" alt="Beacon Innovation Hub Logo" width="100%">
 </p>
-
 # Beacon Innovation Hub
 
 Your project description goes here...
