@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Screenshot%202026-09-04%20184614.png" alt="Beacon Innovation Hub Logo" width="100%" height="500">
+  <img src="./Screenshot%202026-09-04%20184614.png" alt="Beacon Innovation Hub Logo" width="90%" height="600">
 </p> Innovation Hub
 
 Your project description goes here...
