@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Screenshot%202026-09-04%20184614.png" alt="Beacon Innovation Hub Logo" width="100%">
+  <img src="./Screenshot%202026-09-04%20184614.png" alt="Beacon Innovation Hub Logo" width="80%">
 </p>
 # Beacon Innovation Hub
 
